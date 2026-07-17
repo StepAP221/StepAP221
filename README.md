@@ -5,7 +5,7 @@
 <br><br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=%3E+Привет,+я+разработчик;>+Пишу+чистый+код;>+Добро+пожаловать+в+мой+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Привет,+я+разработчик;Пишу+чистый+код;Добро+пожаловать+в+мой+GitHub!" />
 </a>
 
 <br><br>
@@ -15,7 +15,7 @@
 <br><br>
 
 <a href="https://github.com/StepAP221">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=StepAP221&show_icons=true&theme=synthwave&locale=ru&border_color=00E5FF&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=StepAP221&show_icons=true&theme=synthwave&locale=ru&border_color=00E5FF&border_radius=10" />
 </a>
 
 <br><br>
