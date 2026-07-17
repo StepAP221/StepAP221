@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- Счетчик просмотров профиля -->
-  <img src="https://komarev.com/ghpvc/?username=StepAP221&style=flat-square&color=blue&label=Просмотры+профиля" alt="Просмотры профиля" />
+  <!-- Счетчик просмотров (Английский текст, чтобы шрифт не ломался) -->
+  <img src="https://komarev.com/ghpvc/?username=StepAP221&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
 
   <br><br>
 
-  <!-- Трофеи GitHub -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=StepAP221&theme=radical&margin-w=15&column=6" alt="Трофеи StepAP221" />
+  <!-- Красивая и надежная статистика GitHub -->
+  <a href="https://github.com/StepAP221">
+    <img src="https://github-readme-stats.vercel.app/api?username=StepAP221&show_icons=true&theme=radical&locale=ru" alt="Моя статистика" />
   </a>
 
   <br><br>
