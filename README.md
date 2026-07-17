@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/matrix.svg" width="100%" alt="matrix rain" />
+<img src="https://raw.githubusercontent.com/StepAP221/StepAP221/main/assets/matrix.svg" width="100%" alt="matrix rain" />
 
 </div>
 
