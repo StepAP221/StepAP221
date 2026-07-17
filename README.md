@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,100:ff00ff&height=180&section=header&text=StepAP221&fontSize=70&fontColor=00e5ff&animation=twinkling&desc=System%20Online...&descAlignY=65&descColor=ffffff" alt="header" />
+<img src="./assets/matrix.gif" width="100%" height="200" alt="matrix rain" />
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="line">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,100:ff00ff&height=120&section=header" width="100%" alt="wave" />
 
 <br><br>
 
