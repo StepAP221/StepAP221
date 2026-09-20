@@ -1,9 +1,5 @@
 <div align="center">
 
-
-
-</div>
-
 <br><br>
 
 ## Contribution Snake
